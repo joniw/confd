@@ -283,7 +283,7 @@ func TestSrcTemplateNestedLoop(t *testing.T) {
 	err = ioutil.WriteFile(
 		srcTemplateFile,
 		[]byte(
-			"bar = {{ range $foo := .foo }}{{ range $bar := .bar }}{{ $bar.Nodes }}{{ end }}{{ end }}",
+			"bar = {{ range $foo := .foo }}{{ range $bar := .bar }}{{ $bar.Value }}{{ end }}{{ end }}",
 		),
 		0644)
 	if err != nil {
