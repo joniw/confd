@@ -2,18 +2,12 @@
 
 ### Binary Download
 
-Currently confd ships binaries for OS X and Linux 64bit systems. You can download the latest release from [GitHub](https://github.com/joniw/confd/releases)
-
-#### OS X
-
-```
-$ wget https://github.com/joniw/confd/releases/download/v0.12.1/confd-0.12.1-darwin-amd64
-```
+Currently confd ships binaries Linux 64bit systems. You can download the latest release from [GitHub](https://github.com/joniw/confd/releases)
 
 #### Linux
 
 ```
-$ wget https://github.com/joniw/confd/releases/download/v0.12.1/confd-0.12.1-linux-amd64
+$ wget https://github.com/joniw/confd/releases/download/v0.12.2/confd-0.12.2-linux-amd64
 ```
 
 #### Building from Source

@@ -1,3 +1,7 @@
+### v0.12.2
+
+e64d00a apply https://github.com/kelseyhightower/memkv/pull/12
+
 ### v0.12.1
 
 17e1d2a Revert "json-backend: initial pass of json backend"
