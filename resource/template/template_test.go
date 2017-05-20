@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/bacongobbler/confd/backends"
+	"github.com/joniw/confd/backends"
 )
 
 const (

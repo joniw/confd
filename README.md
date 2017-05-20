@@ -1,6 +1,6 @@
 # confd
 
-[![Build Status](https://travis-ci.org/bacongobbler/confd.svg?branch=master)](https://travis-ci.org/bacongobbler/confd)
+[![Build Status](https://travis-ci.org/joniw/confd.svg?branch=master)](https://travis-ci.org/joniw/confd)
 
 `confd` is a lightweight configuration management tool focused on:
 
@@ -21,8 +21,8 @@ Go 1.6 is required to build confd, which uses the new vendor directory.
 
 ```
 $ mkdir -p $GOPATH/src/github.com/bacongobbler
-$ git clone https://github.com/bacongobbler/confd.git $GOPATH/src/github.com/bacongobbler/confd
-$ cd $GOPATH/src/github.com/bacongobbler/confd
+$ git clone https://github.com/joniw/confd.git $GOPATH/src/github.com/joniw/confd
+$ cd $GOPATH/src/github.com/joniw/confd
 $ ./build
 ```
 

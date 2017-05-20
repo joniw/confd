@@ -14,8 +14,8 @@ import (
 	"text/template"
 
 	"github.com/BurntSushi/toml"
-	"github.com/bacongobbler/confd/backends"
-	"github.com/bacongobbler/confd/log"
+	"github.com/joniw/confd/backends"
+	"github.com/joniw/confd/log"
 	"github.com/kelseyhightower/memkv"
 )
 

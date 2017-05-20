@@ -7,9 +7,9 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/bacongobbler/confd/backends"
-	"github.com/bacongobbler/confd/log"
-	"github.com/bacongobbler/confd/resource/template"
+	"github.com/joniw/confd/backends"
+	"github.com/joniw/confd/log"
+	"github.com/joniw/confd/resource/template"
 )
 
 func main() {

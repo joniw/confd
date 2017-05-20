@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 	"time"
-	"github.com/bacongobbler/confd/log"
+	"github.com/joniw/confd/log"
 )
 
 // Client is a wrapper around the redis client

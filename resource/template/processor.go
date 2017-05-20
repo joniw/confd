@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bacongobbler/confd/log"
+	"github.com/joniw/confd/log"
 )
 
 type Processor interface {

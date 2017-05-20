@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/bacongobbler/confd",
+	"ImportPath": "github.com/joniw/confd",
 	"GoVersion": "go1.6",
 	"GodepVersion": "v74",
 	"Deps": [
